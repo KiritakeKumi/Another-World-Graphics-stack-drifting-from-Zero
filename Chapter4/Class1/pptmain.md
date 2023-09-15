@@ -174,3 +174,16 @@
   :
 
   - 当遇到问题时，内核日志、dmesg和特定的调试工具都是非常有价值的资源。
+
+
+
+
+
+
+
+引用来源：
+
+1.https://betawiki.net/wiki/MS-DOS_1.25
+
+2.https://www.bilibili.com/video/BV1Jq4y1i7Jc
+
